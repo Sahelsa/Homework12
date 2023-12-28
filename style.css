@@ -1,0 +1,84 @@
+.continer {
+  display: flex;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.con1 {
+  border: 1px solid gray;
+  padding: 10px 30px;
+  position: fixed;
+  overflow-y: auto;
+}
+.input1 {
+  padding: 8px 50px;
+  border-radius: 3px;
+  border: 1px solid rgb(192, 189, 189);
+}
+.input1:hover {
+  padding: 8px 50px;
+  border: 1.2px solid gray;
+  border-radius: 3px;
+}
+.input2 {
+  padding: 8px 24px;
+  border-radius: 3px;
+  border: 1px solid rgb(192, 189, 189);
+}
+.input2:hover {
+  padding: 8px 24px;
+  border: 1.2px solid gray;
+  border-radius: 3px;
+}
+.item1 {
+  padding: 7px 48px;
+  background-color: green;
+  color: white;
+  border: none;
+}
+.item1:hover {
+  background-color: gray;
+}
+.con2 {
+    margin-left:30px;
+    border-right: 1px solid gray;
+}
+.img1{
+    width: 94%;
+}
+.item3{
+    margin-top: -55px;
+    margin-left: 10px;
+    background-color: black;
+
+}
+.item4{
+    width: 23.1%;
+    margin-top: 20px;
+}
+.item5{
+    margin-top: -80px;
+    margin-left: 370px;
+}
+.item6{
+    border: 0.5px solid gray;
+}
+.item7{
+  margin-top: 120px;
+}
+.item8{
+  padding: 10px 80px;
+  border: 0px;
+  background-color: green;
+  color: white;
+}
+.item9{
+  width: 94%;
+  height: 30px;
+  border: 0.5px solid black;
+}
+.item10{
+  padding: 10px 60px;
+  border: 0px solid green;
+  background-color: green;
+  color: white;
+}
